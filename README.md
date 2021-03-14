@@ -1,7 +1,7 @@
 # Intro to DOM Programming and Just Enough JavaScript
 
 ## Introduction
-
+#
 JavaScript can do many kinds of work, from building web servers, to creating
 "infinite scroll" effects, but it was originally designed to do a type of
 programming called **Document-Object Model (DOM) programming**. Understanding
